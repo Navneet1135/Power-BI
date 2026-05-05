@@ -151,40 +151,6 @@ Custom tooltip pages enhance interactivity.
 
 ---
 
-## 📂 Project Structure
-
-```bash
-📁 Sales Dashboard Project
- ┣ 📄 Dashboard.pbix
- ┣ 📄 Sales data 2023.csv
- ┣ 📄 Sales data 2024.csv
- ┣ 📄 Datasets for dashboards.ipynb
- ┣ 📁 Screenshots
- ┗ 📄 README.md
-```
-
----
-
-## 📸 Dashboard Preview
-
-### KPI Summary Dashboard
-
-*Add image here*
-
-### Comparative Analysis
-
-*Add image here*
-
-### KPI Analysis Page
-
-*Add image here*
-
-### Map & Customer Insights
-
-*Add image here*
-
----
-
 ## 🚀 How to Use
 
 1. Clone the repository:
