@@ -156,7 +156,7 @@ Custom tooltip pages enhance interactivity.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/business-dashboard.git
+git clone https://github.com/Navneet1135/Power-BI
 ```
 
 2. Open the `.pbix` file in **Power BI Desktop**
@@ -193,7 +193,7 @@ git clone https://github.com/your-username/business-dashboard.git
 ## 🧑‍💻 Author
 
 **Your Name**
-GitHub: https://github.com/your-username
+GitHub: https://github.com/Navneet1135
 
 ---
 
